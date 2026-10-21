@@ -32,6 +32,7 @@ url-shortener/
 │   └── database.json
 ├── Router/
 │   └── router.js
+├── .gitignore
 ├── server.js
 ├── package.json
 └── README.md
